@@ -5,7 +5,6 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		System.out.println("Modificacion hecha en el proyecto");
-		System.out.println("Segunda modificación hecha en el proyecto");
 	}
 
 }
